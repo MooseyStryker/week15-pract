@@ -37,6 +37,7 @@ export default function App () {
         );
 }
 
+/* This is the class based  */
 // class App extends React.Component {
 //   constructor(props) {
 //     super(props);
